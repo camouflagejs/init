@@ -2,7 +2,9 @@
 
 Use `degit` to initialize a camouflage project.
 
-`degit camouflagejs/init myproject`
+`degit camouflagejs/init myproject` or `npx degit camouflagejs/init myproject`
+
+For Camouflage source code and documentation, visit [Camouflage](https://github.com/testinggospels/camouflage)
 
 # License
 
